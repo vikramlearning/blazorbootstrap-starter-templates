@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "net-6", "net-6", "{C2B6F2DD-890C-4197-BBD7-89972DB10D56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "net-7", "net-7", "{BBBEBBDD-C98C-47ED-8126-AC1D9358438B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webassembly", "webassembly", "{72359839-43B1-4C7E-868C-2EDBF6FD8170}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webassembly", "webassembly", "{38950246-BCB2-4671-B9A7-8C533292D8ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{E4646E1D-E0E8-450C-A5BC-45A4C81CC465}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{1339ED24-153C-4BDF-83F5-BA833981CB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter.NET7.BlazorServerApp", "Starter.NET7.BlazorServerApp\Starter.NET7.BlazorServerApp.csproj", "{83BAB434-3722-4F32-B58F-42B97E725027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83BAB434-3722-4F32-B58F-42B97E725027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BAB434-3722-4F32-B58F-42B97E725027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BAB434-3722-4F32-B58F-42B97E725027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BAB434-3722-4F32-B58F-42B97E725027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{72359839-43B1-4C7E-868C-2EDBF6FD8170} = {C2B6F2DD-890C-4197-BBD7-89972DB10D56}
+		{38950246-BCB2-4671-B9A7-8C533292D8ED} = {BBBEBBDD-C98C-47ED-8126-AC1D9358438B}
+		{E4646E1D-E0E8-450C-A5BC-45A4C81CC465} = {C2B6F2DD-890C-4197-BBD7-89972DB10D56}
+		{1339ED24-153C-4BDF-83F5-BA833981CB3E} = {BBBEBBDD-C98C-47ED-8126-AC1D9358438B}
+		{83BAB434-3722-4F32-B58F-42B97E725027} = {1339ED24-153C-4BDF-83F5-BA833981CB3E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C47E2954-C9D1-41A5-BFFE-887127FD4726}
+	EndGlobalSection
+EndGlobal
