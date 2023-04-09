@@ -22,8 +22,8 @@
 </div>
 
 @code {
-    Sidebar sidebar;
-    IEnumerable<NavItem> navItems;
+    private Sidebar sidebar = default!;
+    private IEnumerable<NavItem> navItems = default!;
 
     private async Task<SidebarDataProviderResult> SidebarDataProvider(SidebarDataProviderRequest request)
     {
