@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/template.json",
+  "author": "Vikram Reddy",
+  "classifications": [ "Web", "ASP.NET Core", "Blazor", "BlazorBootstrap", "WebAssembly" ],
+  "identity": "Blazor.Bootstrap.WebAssembly",
+  "name": "Blazor Bootstrap WebAssembly App",
+  "shortName": "blazorbootstrap-wasm",
+  "tags": {
+    "language": "C#"
+  }
+}
