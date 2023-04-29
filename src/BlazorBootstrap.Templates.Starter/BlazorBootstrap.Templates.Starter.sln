@@ -15,17 +15,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{E4646E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{1339ED24-153C-4BDF-83F5-BA833981CB3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET7.BlazorServerApp", "NET7.BlazorServerApp\NET7.BlazorServerApp.csproj", "{A9B82B8D-EEE8-4102-A929-5F3B5637B04C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET7.BlazorServerApp", "NET7.BlazorServerApp\NET7.BlazorServerApp.csproj", "{A9B82B8D-EEE8-4102-A929-5F3B5637B04C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET7.BlazorServerAppEmpty", "NET7.BlazorServerAppEmpty\NET7.BlazorServerAppEmpty.csproj", "{B4BC5F04-5F6B-42C2-8BB4-F3DEA70253E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET7.BlazorServerAppEmpty", "NET7.BlazorServerAppEmpty\NET7.BlazorServerAppEmpty.csproj", "{B4BC5F04-5F6B-42C2-8BB4-F3DEA70253E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET7.BlazorWebAssemblyApp", "NET7.BlazorWebAssemblyApp\NET7.BlazorWebAssemblyApp.csproj", "{C7FBF540-75F4-4A94-9632-234DC67D7C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET7.BlazorWebAssemblyApp", "NET7.BlazorWebAssemblyApp\NET7.BlazorWebAssemblyApp.csproj", "{C7FBF540-75F4-4A94-9632-234DC67D7C5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET6.BlazorWebAssemblyApp", "NET6.BlazorWebAssemblyApp\NET6.BlazorWebAssemblyApp.csproj", "{1B6FE404-F864-47CD-BDC1-236F598A3DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET6.BlazorWebAssemblyApp", "NET6.BlazorWebAssemblyApp\NET6.BlazorWebAssemblyApp.csproj", "{1B6FE404-F864-47CD-BDC1-236F598A3DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET7.BlazorWebAssemblyAppEmpty", "NET7.BlazorWebAssemblyAppEmpty\NET7.BlazorWebAssemblyAppEmpty.csproj", "{5DD1DAF4-6FE7-4BB9-A2CE-FE724783D4E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET7.BlazorWebAssemblyAppEmpty", "NET7.BlazorWebAssemblyAppEmpty\NET7.BlazorWebAssemblyAppEmpty.csproj", "{5DD1DAF4-6FE7-4BB9-A2CE-FE724783D4E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET6.BlazorServerApp", "NET6.BlazorServerApp\NET6.BlazorServerApp.csproj", "{4B71E1DB-A048-4478-B50B-A060F3CCAD3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET6.BlazorServerApp", "NET6.BlazorServerApp\NET6.BlazorServerApp.csproj", "{4B71E1DB-A048-4478-B50B-A060F3CCAD3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
