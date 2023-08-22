@@ -10,4 +10,11 @@
     <PackageReference Include="Blazor.Bootstrap" Version="1.10.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="wwwroot\favicon.png">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
