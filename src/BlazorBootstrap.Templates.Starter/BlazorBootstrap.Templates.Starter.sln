@@ -33,6 +33,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webassembly", "webassembly"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8.BlazorWebAssemblyStandaloneApp", "NET8.BlazorWebAssemblyStandaloneApp\NET8.BlazorWebAssemblyStandaloneApp.csproj", "{71A7A644-E837-4021-BD5E-7D7D7A16F153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET8.BlazorWebAppRenderModeServer", "NET8.BlazorWebAppRenderModeServer\NET8.BlazorWebAppRenderModeServer.csproj", "{4D07A261-BD86-49CF-B869-549025FD642D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{71A7A644-E837-4021-BD5E-7D7D7A16F153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71A7A644-E837-4021-BD5E-7D7D7A16F153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71A7A644-E837-4021-BD5E-7D7D7A16F153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D07A261-BD86-49CF-B869-549025FD642D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D07A261-BD86-49CF-B869-549025FD642D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D07A261-BD86-49CF-B869-549025FD642D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D07A261-BD86-49CF-B869-549025FD642D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +90,7 @@ Global
 		{4B71E1DB-A048-4478-B50B-A060F3CCAD3D} = {E4646E1D-E0E8-450C-A5BC-45A4C81CC465}
 		{4B4A4995-6571-4BDB-B529-F7D8099FF54C} = {5A85427E-0DB8-4147-A267-66C831FE02AD}
 		{71A7A644-E837-4021-BD5E-7D7D7A16F153} = {4B4A4995-6571-4BDB-B529-F7D8099FF54C}
+		{4D07A261-BD86-49CF-B869-549025FD642D} = {4B4A4995-6571-4BDB-B529-F7D8099FF54C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C47E2954-C9D1-41A5-BFFE-887127FD4726}
