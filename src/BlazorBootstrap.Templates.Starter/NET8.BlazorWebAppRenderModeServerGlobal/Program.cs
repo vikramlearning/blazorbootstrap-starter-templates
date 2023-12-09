@@ -1,4 +1,4 @@
-using NET8.BlazorWebAppRenderModeServer.Components;
+using NET8.BlazorWebAppRenderModeServerGlobal.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,7 +6,7 @@ builder.Services.AddBlazorBootstrap(); // Add this line
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
-       .AddInteractiveServerComponents();
+    .AddInteractiveServerComponents();
 
 var app = builder.Build();
 
