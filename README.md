@@ -10,6 +10,10 @@
 
    <img src="https://i.imgur.com/w5jRKIH.png" alt="Blazor Bootstrap - Web App - Server - Global" />
 
+1. [Blazor Bootstrap - Web App - Auto - Global](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET8.BlazorWebAppRenderModeServerGlobal)
+
+   <img src="https://i.imgur.com/w5jRKIH.png" alt="Blazor Bootstrap - Web App - Auto - Global" />
+
 ## .NET 7
 
 1. [Blazor Bootstrap - WebAssembly App](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET7.BlazorWebAssemblyApp)
@@ -27,7 +31,6 @@
 1. [Blazor Bootstrap - Empty Server App](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET7.BlazorServerAppEmpty)
 
    <img src="https://i.imgur.com/rw13bZr.png" alt="Blazor Bootstrap - Blazor Empty Server App" />
-
 
 ## .NET 6
 
