@@ -6,11 +6,11 @@
 
    <img src="https://i.imgur.com/mJ9odLO.png" alt="Blazor Bootstrap - WebAssembly - Standalone App" />
 
-1. [Blazor Bootstrap - Web App - Server - Global](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET8.BlazorWebAppRenderModeServerGlobal)
+1. [Blazor Bootstrap - WebApp - Server - Global](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET8.BlazorWebAppRenderModeServerGlobal)
 
    <img src="https://i.imgur.com/w5jRKIH.png" alt="Blazor Bootstrap - WebApp - Server - Global" />
 
-1. [Blazor Bootstrap - Web App - Auto - Global](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/Net8.BlazorAutoGlobal)
+1. [Blazor Bootstrap - WebApp - Auto - Global](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/Net8.BlazorAutoGlobal)
 
    <img src="https://i.imgur.com/m2lUTME.png" alt="Blazor Bootstrap - WebApp - Auto - Global" />
 
