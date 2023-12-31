@@ -35,13 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET8.BlazorWebAssemblyStand
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{11D02E32-8EC3-411F-9CD6-6A65FE223080}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "auto", "auto", "{A94DDB0E-3BF5-45C2-AC6A-4589406CFB32}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "auto-global", "auto-global", "{A94DDB0E-3BF5-45C2-AC6A-4589406CFB32}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET8.BlazorWebAppRenderModeServerGlobal", "NET8.BlazorWebAppRenderModeServerGlobal\NET8.BlazorWebAppRenderModeServerGlobal.csproj", "{497D7475-BE12-4FE4-9423-2D6EBDB9933F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net8.BlazorAutoGlobal", "Net8.BlazorAutoGlobal\Net8.BlazorAutoGlobal\Net8.BlazorAutoGlobal.csproj", "{A035D797-D275-4549-9C46-C0321FDCAC36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net8.BlazorAutoGlobal", "Net8.BlazorAutoGlobal\Net8.BlazorAutoGlobal\Net8.BlazorAutoGlobal.csproj", "{A035D797-D275-4549-9C46-C0321FDCAC36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net8.BlazorAutoGlobal.Client", "Net8.BlazorAutoGlobal\Net8.BlazorAutoGlobal.Client\Net8.BlazorAutoGlobal.Client.csproj", "{01F4D8F6-0E07-4544-B084-641150A40827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net8.BlazorAutoGlobal.Client", "Net8.BlazorAutoGlobal\Net8.BlazorAutoGlobal.Client\Net8.BlazorAutoGlobal.Client.csproj", "{01F4D8F6-0E07-4544-B084-641150A40827}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

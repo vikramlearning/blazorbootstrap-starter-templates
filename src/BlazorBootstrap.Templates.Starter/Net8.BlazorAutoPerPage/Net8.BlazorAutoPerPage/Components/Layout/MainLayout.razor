@@ -16,12 +16,16 @@
             <div class="py-2">@Body</div>
         </article>
     </main>
+    
+    @* <Preload LoadingText="Bitte warten..." /> *@
 
 </div>
 
 @code {
     Sidebar sidebar;
     IEnumerable<NavItem> navItems;
+    [Inject]
+    PreloadService PreloadService { get; set; }
 
     private async Task<SidebarDataProviderResult> SidebarDataProvider(SidebarDataProviderRequest request)
     {
@@ -38,9 +42,19 @@
                        new NavItem { Id = "1", Href = "/", IconName = IconName.HouseDoorFill, Text = "Home", Match=NavLinkMatch.All},
                        new NavItem { Id = "2", Href = "/counter", IconName = IconName.PlusSquareFill, Text = "Counter"},
                        new NavItem { Id = "3", Href = "/weather", IconName = IconName.Table, Text = "Fetch Data"},
+                       new NavItem { Id = "4", Href = "/employees", IconName = IconName.Table, Text = "Employees"},
                    };
 
         return navItems;
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        PreloadService.Show(SpinnerColor.Light, "Loading data...");
+        await Task.Delay(1000); // call the service/api
+        PreloadService.Hide();
+        PreloadService.Show(SpinnerColor.Danger, "Loading data 2...");
+        await Task.Delay(2000); // call the service/api
+        PreloadService.Hide();
     }
 }
 

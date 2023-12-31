@@ -1,5 +1,5 @@
-using Net8.BlazorAutoGlobal.Client.Pages;
-using Net8.BlazorAutoGlobal.Components;
+using Net8.BlazorAutoPerPage.Client.Pages;
+using Net8.BlazorAutoPerPage.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
