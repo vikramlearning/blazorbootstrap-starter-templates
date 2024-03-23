@@ -8,8 +8,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Net8.BlazorAutoGlobal.Client\Net8.BlazorAutoGlobal.Client.csproj" />
-    <PackageReference Include="Blazor.Bootstrap" Version="1.10.4" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.0" />
+    <PackageReference Include="Blazor.Bootstrap" Version="2.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.3" />
   </ItemGroup>
 
 </Project>
