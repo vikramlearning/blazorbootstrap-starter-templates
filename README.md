@@ -14,6 +14,10 @@
 
    <img src="https://i.imgur.com/m2lUTME.png" alt="Blazor Bootstrap - WebApp - Auto - Global" />
 
+1. [Blazor Bootstrap - MAUI Blazor Hybrid App](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET8.MauiBlazorHybridApp)
+
+   <img src="https://i.imgur.com/wRtmXtH.png" alt="Blazor Bootstrap - MAUI Blazor Hybrid App" />
+
 ## .NET 7
 
 1. [Blazor Bootstrap - WebAssembly App](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET7.BlazorWebAssemblyApp)
