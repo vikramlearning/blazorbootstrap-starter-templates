@@ -1,7 +1,7 @@
 # Starter templates
 
 ## .NET 9
-1. [Blazor Bootstrap - WebAssembly - Standalone App](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET8.BlazorWebAssemblyStandaloneApp)
+1. [Blazor Bootstrap - WebAssembly - Standalone App](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET9.BlazorWebAssemblyStandaloneApp)
 
    <img src="https://i.imgur.com/JDfqF6Q.png" alt="Blazor Bootstrap - WebAssembly - Standalone App" />
 
