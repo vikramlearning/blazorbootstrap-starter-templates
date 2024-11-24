@@ -45,6 +45,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webassembly", "webassembly"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET9.BlazorWebAssemblyStandaloneApp", "NET9.BlazorWebAssemblyStandaloneApp\NET9.BlazorWebAssemblyStandaloneApp.csproj", "{323F974E-E33D-4FC3-AF9F-073CB6BAA8CD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{EB3A847A-8B7F-44E2-BCB6-F9CCB355ED87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET9.BlazorWebAppServerGlobal", "NET9.BlazorWebAppServerGlobal\NET9.BlazorWebAppServerGlobal.csproj", "{D2E090BA-663A-4A03-AD52-C568F455F0D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,10 @@ Global
 		{323F974E-E33D-4FC3-AF9F-073CB6BAA8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{323F974E-E33D-4FC3-AF9F-073CB6BAA8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{323F974E-E33D-4FC3-AF9F-073CB6BAA8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E090BA-663A-4A03-AD52-C568F455F0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E090BA-663A-4A03-AD52-C568F455F0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E090BA-663A-4A03-AD52-C568F455F0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E090BA-663A-4A03-AD52-C568F455F0D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,6 +124,8 @@ Global
 		{DF7FF8DC-C119-41DD-9CD3-5956B4D5743C} = {47DB9E0B-5DD3-4D50-8C64-31143CD2D142}
 		{F4D3097F-C013-4C46-B98D-4F04843AA134} = {FA255D7B-AD26-447D-9355-7826FE8C3311}
 		{323F974E-E33D-4FC3-AF9F-073CB6BAA8CD} = {F4D3097F-C013-4C46-B98D-4F04843AA134}
+		{EB3A847A-8B7F-44E2-BCB6-F9CCB355ED87} = {FA255D7B-AD26-447D-9355-7826FE8C3311}
+		{D2E090BA-663A-4A03-AD52-C568F455F0D6} = {EB3A847A-8B7F-44E2-BCB6-F9CCB355ED87}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C47E2954-C9D1-41A5-BFFE-887127FD4726}

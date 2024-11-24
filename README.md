@@ -8,9 +8,6 @@
 1. [Blazor Bootstrap - WebApp - Server - Global](#)
    Coming soon
 
-1. [Blazor Bootstrap - WebApp - Server - Global](#)
-   Coming soon
-
 1. [Blazor Bootstrap - WebApp - Auto - Global](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/Net9.BlazorAutoGlobal)
 
    <img src="https://i.imgur.com/u0LPg1C.png" alt="Blazor Bootstrap - WebApp - Auto - Global" />
