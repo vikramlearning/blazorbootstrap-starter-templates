@@ -1,7 +1,10 @@
 # Starter templates
 
 ## .NET 9
-   
+1. [Blazor Bootstrap - WebAssembly - Standalone App](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/NET8.BlazorWebAssemblyStandaloneApp)
+
+   <img src="https://i.imgur.com/JDfqF6Q.png" alt="Blazor Bootstrap - WebAssembly - Standalone App" />
+
 1. [Blazor Bootstrap - WebApp - Server - Global](#)
    Coming soon
 
@@ -10,7 +13,7 @@
 
 1. [Blazor Bootstrap - WebApp - Auto - Global](https://github.com/vikramlearning/blazorbootstrap-starter-templates/tree/master/src/BlazorBootstrap.Templates.Starter/Net9.BlazorAutoGlobal)
 
-   <img src="https://i.imgur.com/xJ3J0QW.png" alt="Blazor Bootstrap - WebApp - Auto - Global" />
+   <img src="https://i.imgur.com/u0LPg1C.png" alt="Blazor Bootstrap - WebApp - Auto - Global" />
 
 1. [Blazor Bootstrap - MAUI Blazor Hybrid App](#)
    Coming soon
